@@ -1,0 +1,69 @@
+name: Sync Major schedule and deploy Pages
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 2,14 * * *'
+  workflow_dispatch:
+    inputs:
+      use_snapshot:
+        description: Publish the bundled snapshot instead of fetching new data
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      publish: ${{ steps.window.outputs.publish }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - name: Check tournament window
+        id: window
+        env:
+          EVENT: ${{ github.event_name }}
+        run: |
+          publish=true
+          if [[ "$EVENT" == schedule ]]; then
+            publish="$(python scripts/sync.py --active)"
+          fi
+          echo "publish=$publish" >> "$GITHUB_OUTPUT"
+      - name: Sync Liquipedia schedule
+        if: steps.window.outputs.publish == 'true' && !inputs.use_snapshot
+        env:
+          CALENDAR_CONTACT_URL: ${{ github.server_url }}/${{ github.repository }}
+        run: python scripts/sync.py
+      - name: Build static site and calendar
+        if: steps.window.outputs.publish == 'true'
+        run: python scripts/build.py
+      - name: Upload Pages artifact
+        if: steps.window.outputs.publish == 'true'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    if: needs.build.outputs.publish == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

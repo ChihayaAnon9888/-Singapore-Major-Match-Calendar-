@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111112">
+  <meta name="description" content="Add the CS2 Major schedule to Apple Calendar, Google Calendar or Outlook. Match times automatically adjust to your time zone.">
+  <title>CS2 Major Calendar</title>
+  <link rel="icon" type="image/svg+xml" href="./assets/favicon.svg">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <main>
+    <section class="hero" aria-labelledby="title">
+      <div class="container">
+        <p class="edition" id="edition">PGL Major Singapore 2026</p>
+        <h1 id="title">CS2 MAJOR<br><em>CALENDAR.</em></h1>
+        <p class="start" id="match-start" hidden><span id="start-label"></span><time id="start-time"></time><span id="start-zone"></span></p>
+        <nav class="providers" aria-label="Subscribe to the Major calendar">
+          <a class="provider primary" id="apple" href="./major.ics"><svg aria-hidden="true" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M7 3v4m10-4v4M3 10h18m-13 5h2m4 0h2"/></svg> Apple</a>
+          <a class="provider" href="https://calendar.google.com/calendar/u/0/r/settings/addbyurl" target="_blank" rel="noopener" data-provider="google"><span aria-hidden="true" class="google-icon">G</span> Google</a>
+          <a class="provider" href="https://outlook.live.com/calendar/0/view/month" target="_blank" rel="noopener" data-provider="outlook"><svg aria-hidden="true" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m4 7 8 6 8-6"/></svg> Outlook</a>
+        </nav>
+        <p class="reminders">Calendar includes 30-minute match alerts.</p>
+        <div class="instructions" id="instructions" hidden>
+          <p id="instructions-text" role="status"></p>
+          <input id="feed-url" type="url" readonly aria-label="Calendar subscription URL" hidden>
+          <a href="./major.ics" download="cs2-major.ics">Download .ics</a>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer class="container">
+    <p>Schedule from <a id="wiki-link" href="https://liquipedia.net/counterstrike/PGL/2026/Singapore">Liquipedia</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>) <span aria-hidden="true">·</span> <a id="hltv-link" href="https://www.hltv.org/major/matches">HLTV coverage</a></p>
+  </footer>
+</body>
+</html>

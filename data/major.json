@@ -1,0 +1,33 @@
+{
+  "id": "singapore-2026",
+  "name": "PGL Major Singapore 2026",
+  "location": "Singapore",
+  "timeZone": "Asia/Singapore",
+  "start": "2026-11-24",
+  "end": "2026-12-13",
+  "official": "https://www.pglesports.com/cs2/pgl-major-singapore-2026/",
+  "hltv": "https://www.hltv.org/major/matches",
+  "wiki": "PGL/2026/Singapore",
+  "tentativeAsOf": "2026-11-22",
+  "stages": [
+    {"id": "stage-1", "name": "Stage 1", "wiki": "Stage 1", "start": "2026-11-24", "end": "2026-11-27", "slots": 33},
+    {"id": "stage-2", "name": "Stage 2", "wiki": "Stage 2", "start": "2026-11-28", "end": "2026-12-01", "slots": 33},
+    {"id": "stage-3", "name": "Stage 3", "wiki": "Stage 3", "start": "2026-12-02", "end": "2026-12-06", "slots": 33},
+    {"id": "playoffs", "name": "Playoffs", "wiki": "Playoffs", "start": "2026-12-10", "end": "2026-12-13", "slots": 8}
+  ],
+  "tentativeUtcTimes": {
+    "stage-1": {
+      "Round 2": ["09:00", "09:00", "10:00", "10:00", "11:00", "11:00", "12:00", "12:00"],
+      "Round 3": ["04:00", "04:00", "05:00", "05:00", "06:00", "06:00", "09:00", "09:00"],
+      "Round 4": ["07:00", "07:00", "10:00", "10:00", "13:00", "13:00"],
+      "Round 5": ["07:00", "10:00", "13:00"]
+    },
+    "stage-2": {
+      "Round 1": ["04:00", "04:00", "05:00", "05:00", "06:00", "06:00", "07:00", "07:00"],
+      "Round 2": ["09:00", "09:00", "10:00", "10:00", "11:00", "11:00", "12:00", "12:00"],
+      "Round 3": ["04:00", "04:00", "05:00", "05:00", "06:00", "06:00", "09:00", "09:00"],
+      "Round 4": ["07:00", "07:00", "10:00", "10:00", "13:00", "13:00"],
+      "Round 5": ["07:00", "10:00", "13:00"]
+    }
+  }
+}
