@@ -2,6 +2,12 @@
 
 适用于 GitHub Pages 的静态 CS2 Major 日历。首页提供 Apple、Google 和 Outlook 三个订阅入口，并用访客设备的时区显示下一场比赛。日历含已知开赛时间和赛前 30 分钟提醒。
 
+## 订阅链接（不用 GitHub Pages）
+
+- Apple 日历：`webcal://raw.githubusercontent.com/ChihayaAnon9888/-Singapore-Major-Match-Calendar-/main/major.ics`
+- Google / Outlook（从网址添加）：`https://raw.githubusercontent.com/ChihayaAnon9888/-Singapore-Major-Match-Calendar-/main/major.ics`
+- 更新赛程：运行 `./update.sh`，会拉取最新赛程、重新生成 `major.ics` 并推送。
+
 ## 部署 GitHub Pages
 
 1. 新建公开仓库，将本项目解压后的文件提交到仓库根目录的 `main` 分支。请保留隐藏的 `.github` 目录。
