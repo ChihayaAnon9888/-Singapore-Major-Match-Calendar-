@@ -1,31 +1,60 @@
 # CS2 Major Calendar
 
-适用于 GitHub Pages 的静态 CS2 Major 日历。首页提供 Apple、Google 和 Outlook 三个订阅入口，并用访客设备的时区显示下一场比赛。日历含已知开赛时间和赛前 30 分钟提醒。
+PGL Major Singapore 2026 的比赛日历。订阅以后，比赛会出现在你的日历里，时间会按你所在的时区自动换算，改期也会跟着同步。
 
-## 订阅链接（不用 GitHub Pages）
+## 订阅链接
 
-- Apple 日历：`webcal://raw.githubusercontent.com/ChihayaAnon9888/-Singapore-Major-Match-Calendar-/main/major.ics`
-- Google / Outlook（从网址添加）：`https://raw.githubusercontent.com/ChihayaAnon9888/-Singapore-Major-Match-Calendar-/main/major.ics`
-- 更新赛程：运行 `./update.sh`，会拉取最新赛程、重新生成 `major.ics` 并推送。
+| 日历 | 链接 |
+| --- | --- |
+| Apple 日历（iPhone / Mac） | `webcal://raw.githubusercontent.com/ChihayaAnon9888/-Singapore-Major-Match-Calendar-/main/major.ics` |
+| Google 日历 / Outlook | `https://raw.githubusercontent.com/ChihayaAnon9888/-Singapore-Major-Match-Calendar-/main/major.ics` |
 
-## 部署 GitHub Pages
+## 操作流程
 
-1. 新建公开仓库，将本项目解压后的文件提交到仓库根目录的 `main` 分支。请保留隐藏的 `.github` 目录。
-2. 在仓库的 **Settings → Pages → Build and deployment** 中，将 **Source** 设为 **GitHub Actions**。
-3. 打开 **Actions → Sync Major schedule and deploy Pages**，运行一次 **Run workflow**。部署完成后，Pages 设置页会显示公开网址。
-4. 将网站链接发给观众。订阅源位于公开网址下的 `major.ics`。直接打开这个地址也能取得一次性导入文件。
+### Apple 日历（iPhone / iPad / Mac）
 
-[GitHub Pages 发布说明](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+1. 复制上面的 `webcal://` 链接，粘贴到 Safari 的地址栏里打开。
+2. 在弹出的窗口里点 **订阅**，然后点 **添加**。
+3. 想收到赛前提醒的话，在该日历的设置里打开 **活动提醒**（Event Alerts）。日历自带赛前 30 分钟的提醒。
+4. 建议把刷新频率改成 **每小时**：Mac 上右键这个日历 → **获取信息** → **自动刷新**。
 
-## 订阅和提醒
+也可以手动添加：iPhone 上进入 **设置 → 日历 → 账户 → 添加账户 → 其他 → 添加已订阅的日历**，然后粘贴链接。
 
-- **Apple** 打开 Apple Calendar 的订阅确认。iPhone 上可在该日历的设置中开启 **Event Alerts**。
-- **Google** 打开 Google Calendar 的 **From URL** 页面，并尝试复制订阅地址。请在电脑网页中粘贴地址并确认。
-- **Outlook** 打开 Outlook 日历，并尝试复制订阅地址。选择 **Add calendar → Subscribe from web** 后粘贴地址并确认。
-- 日历里的时间以 UTC 储存，客户端按日历或设备时区转换。例如新加坡 Major 开幕场 `2026-11-24T04:00:00Z` 对应多伦多 11 月 23 日 23:00、中国 11 月 24 日 12:00。
-- GitHub Actions 每 12 小时检查一次赛程。订阅客户端按自身的刷新频率接收改期，提醒取决于客户端和账号设置。下载文件是一次性导入。
+### Google 日历
 
-[Apple 日历帮助](https://support.apple.com/en-mide/guide/iphone/-iph3d1110d4/ios) · [Google 日历帮助](https://support.google.com/calendar/answer/37100) · [Outlook 日历帮助](https://support.microsoft.com/en-gb/outlook/import-or-subscribe-to-a-calendar-in-outlook-com-or-outlook-on-the-web?nochrome=true)
+只能在**电脑网页**上订阅，手机 App 里没有这个选项。在电脑上订阅之后，手机会自动同步。
+
+1. 打开 [calendar.google.com](https://calendar.google.com)。
+2. 点左侧 **其他日历** 旁边的 **＋** → **通过网址添加**（From URL）。
+3. 粘贴上面的 `https://` 链接，点 **添加日历**。
+4. **设置提醒**：Google 不会读取订阅日历里自带的提醒，需要自己加。点该日历旁边的 **⋮** → **设置和共享** → **活动通知**，添加"30 分钟前"。
+5. 在 iPhone 自带的日历里看 Google 日历：用手机打开 [calendar.google.com/calendar/syncselect](https://calendar.google.com/calendar/syncselect)，勾选这个日历后保存。
+
+> Google 大约每 8–24 小时刷新一次订阅日历，临时改期可能会延迟显示。
+
+### Outlook
+
+1. 打开 [Outlook 日历](https://outlook.live.com/calendar/)。
+2. 点 **添加日历** → **从 Web 订阅**。
+3. 粘贴上面的 `https://` 链接，填一个日历名称，然后点 **导入**。
+
+### 注意事项
+
+- 日历里的时间以 UTC 储存，打开时会按你的时区显示。例如开幕战 `2026-11-24 04:00 UTC` 对应北京时间 11 月 24 日 12:00。
+- 还没公布开赛时间的比赛不会出现在日历里，公布时间后会自动补上。
+- 请用**订阅**的方式添加，不要下载 `.ics` 文件导入。下载导入只是一次性的，之后改期不会同步。
+
+## 维护者：更新赛程
+
+```sh
+./update.sh
+```
+
+这条命令会从 Liquipedia 拉取最新赛程，重新生成 `major.ics` 并推送到 GitHub。赛程没有变化时不会推送。比赛期间建议每天运行一两次。
+
+## 部署 GitHub Pages（可选）
+
+仓库里还带了一个静态网页版，由 `.github/workflows/pages.yml` 构建。要启用的话：在 **Settings → Pages** 中把 Source 设为 **GitHub Actions**，然后在 Actions 里运行 **Sync Major schedule and deploy Pages**。这一步需要账户能正常使用 GitHub Actions。
 
 ## 数据和更新
 
