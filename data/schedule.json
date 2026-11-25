@@ -1,12 +1,12 @@
 {
   "majorId": "singapore-2026",
-  "updatedAt": "2026-11-22T22:21:20Z",
+  "updatedAt": "2026-11-25T04:27:39Z",
   "matches": [
     {
       "id": "stage-1-qYes0iRpTj-M1",
       "stage": "stage-1",
       "round": "Round 1",
-      "startsAt": "2026-11-24T04:00:00Z",
+      "startsAt": "2026-11-24T04:05:00Z",
       "teams": [
         "HEROIC",
         "Imperial"
@@ -14,14 +14,14 @@
       "bestOf": 1,
       "hltvId": 2400494,
       "status": "scheduled",
-      "updatedAt": "2026-11-16T14:38:40Z",
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-qYes0iRpTj-M2",
       "stage": "stage-1",
       "round": "Round 1",
-      "startsAt": "2026-11-24T04:00:00Z",
+      "startsAt": "2026-11-24T04:05:00Z",
       "teams": [
         "9z",
         "Lynn Vision"
@@ -29,14 +29,14 @@
       "bestOf": 1,
       "hltvId": 2400495,
       "status": "scheduled",
-      "updatedAt": "2026-11-16T14:38:40Z",
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-qYes0iRpTj-M3",
       "stage": "stage-1",
       "round": "Round 1",
-      "startsAt": "2026-11-24T05:00:00Z",
+      "startsAt": "2026-11-24T05:05:00Z",
       "teams": [
         "Ninjas in Pyjamas",
         "M80"
@@ -44,14 +44,14 @@
       "bestOf": 1,
       "hltvId": 2400496,
       "status": "scheduled",
-      "updatedAt": "2026-11-16T14:38:40Z",
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-qYes0iRpTj-M4",
       "stage": "stage-1",
       "round": "Round 1",
-      "startsAt": "2026-11-24T05:00:00Z",
+      "startsAt": "2026-11-24T05:25:00Z",
       "teams": [
         "100 Thieves",
         "Chinggis Warriors"
@@ -59,14 +59,14 @@
       "bestOf": 1,
       "hltvId": 2400497,
       "status": "scheduled",
-      "updatedAt": "2026-11-16T14:38:40Z",
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-qYes0iRpTj-M5",
       "stage": "stage-1",
       "round": "Round 1",
-      "startsAt": "2026-11-24T06:00:00Z",
+      "startsAt": "2026-11-24T06:25:00Z",
       "teams": [
         "PVISION",
         "Dendele"
@@ -74,14 +74,14 @@
       "bestOf": 1,
       "hltvId": 2400499,
       "status": "scheduled",
-      "updatedAt": "2026-11-16T14:38:40Z",
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-qYes0iRpTj-M6",
       "stage": "stage-1",
       "round": "Round 1",
-      "startsAt": "2026-11-24T06:00:00Z",
+      "startsAt": "2026-11-24T06:10:00Z",
       "teams": [
         "Team Liquid",
         "GOSH"
@@ -89,7 +89,7 @@
       "bestOf": 1,
       "hltvId": 2400498,
       "status": "scheduled",
-      "updatedAt": "2026-11-16T14:38:40Z",
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
@@ -104,14 +104,14 @@
       "bestOf": 1,
       "hltvId": 2400500,
       "status": "scheduled",
-      "updatedAt": "2026-11-16T14:38:40Z",
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-qYes0iRpTj-M8",
       "stage": "stage-1",
       "round": "Round 1",
-      "startsAt": "2026-11-24T07:00:00Z",
+      "startsAt": "2026-11-24T07:20:00Z",
       "teams": [
         "Eternal Fire",
         "FlyQuest"
@@ -119,263 +119,247 @@
       "bestOf": 1,
       "hltvId": 2400501,
       "status": "scheduled",
-      "updatedAt": "2026-11-16T14:38:40Z",
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-LP7mmVSfz0-M1",
       "stage": "stage-1",
       "round": "Round 2",
-      "startsAt": "2026-11-24T09:00:00Z",
+      "startsAt": "2026-11-24T08:45:00Z",
       "teams": [
-        "TBD",
-        "TBD"
+        "Ninjas in Pyjamas",
+        "Lynn Vision"
       ],
       "bestOf": 1,
-      "hltvId": null,
+      "hltvId": 2400557,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-LP7mmVSfz0-M2",
       "stage": "stage-1",
       "round": "Round 2",
-      "startsAt": "2026-11-24T09:00:00Z",
+      "startsAt": "2026-11-24T09:50:00Z",
       "teams": [
-        "TBD",
-        "TBD"
+        "100 Thieves",
+        "Imperial"
       ],
       "bestOf": 1,
-      "hltvId": null,
+      "hltvId": 2400559,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-LP7mmVSfz0-M3",
       "stage": "stage-1",
       "round": "Round 2",
-      "startsAt": "2026-11-24T10:00:00Z",
+      "startsAt": "2026-11-24T11:00:00Z",
       "teams": [
-        "TBD",
-        "TBD"
+        "PVISION",
+        "FlyQuest"
       ],
       "bestOf": 1,
-      "hltvId": null,
+      "hltvId": 2400561,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-LP7mmVSfz0-M4",
       "stage": "stage-1",
       "round": "Round 2",
-      "startsAt": "2026-11-24T10:00:00Z",
+      "startsAt": "2026-11-24T11:55:00Z",
       "teams": [
-        "TBD",
-        "TBD"
+        "Team Liquid",
+        "Wildcard"
       ],
       "bestOf": 1,
-      "hltvId": null,
+      "hltvId": 2400563,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-JRTmcHTDxV-M1",
       "stage": "stage-1",
       "round": "Round 2",
-      "startsAt": "2026-11-24T11:00:00Z",
+      "startsAt": "2026-11-24T08:45:00Z",
       "teams": [
-        "TBD",
-        "TBD"
+        "HEROIC",
+        "Chinggis Warriors"
       ],
       "bestOf": 1,
-      "hltvId": null,
+      "hltvId": 2400558,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-JRTmcHTDxV-M2",
       "stage": "stage-1",
       "round": "Round 2",
-      "startsAt": "2026-11-24T11:00:00Z",
+      "startsAt": "2026-11-24T09:40:00Z",
       "teams": [
-        "TBD",
-        "TBD"
+        "9z",
+        "M80"
       ],
       "bestOf": 1,
-      "hltvId": null,
+      "hltvId": 2400560,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-JRTmcHTDxV-M3",
       "stage": "stage-1",
       "round": "Round 2",
-      "startsAt": "2026-11-24T12:00:00Z",
+      "startsAt": "2026-11-24T10:45:00Z",
       "teams": [
-        "TBD",
-        "TBD"
+        "Eternal Fire",
+        "Dendele"
       ],
       "bestOf": 1,
-      "hltvId": null,
+      "hltvId": 2400562,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-JRTmcHTDxV-M4",
       "stage": "stage-1",
       "round": "Round 2",
-      "startsAt": "2026-11-24T12:00:00Z",
+      "startsAt": "2026-11-24T12:10:00Z",
       "teams": [
-        "TBD",
-        "TBD"
+        "FaZe",
+        "GOSH"
       ],
       "bestOf": 1,
-      "hltvId": null,
+      "hltvId": 2400564,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-8G2UXTP8Mk-M1",
       "stage": "stage-1",
       "round": "Round 3",
-      "startsAt": "2026-11-25T04:00:00Z",
+      "startsAt": "2026-11-25T08:00:00Z",
       "teams": [
-        "TBD",
-        "TBD"
+        "Imperial",
+        "FlyQuest"
       ],
-      "bestOf": null,
-      "hltvId": null,
+      "bestOf": 3,
+      "hltvId": 2400569,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-8G2UXTP8Mk-M2",
       "stage": "stage-1",
       "round": "Round 3",
-      "startsAt": "2026-11-25T04:00:00Z",
+      "startsAt": "2026-11-25T10:30:00Z",
       "teams": [
-        "TBD",
-        "TBD"
+        "Ninjas in Pyjamas",
+        "Team Liquid"
       ],
-      "bestOf": null,
-      "hltvId": null,
+      "bestOf": 3,
+      "hltvId": 2400571,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-1vWNDspyrc-M1",
       "stage": "stage-1",
       "round": "Round 3",
-      "startsAt": "2026-11-25T05:00:00Z",
+      "startsAt": "2026-11-25T06:00:00Z",
       "teams": [
-        "TBD",
-        "TBD"
+        "HEROIC",
+        "M80"
       ],
-      "bestOf": null,
-      "hltvId": null,
+      "bestOf": 1,
+      "hltvId": 2400565,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-1vWNDspyrc-M2",
       "stage": "stage-1",
       "round": "Round 3",
-      "startsAt": "2026-11-25T05:00:00Z",
+      "startsAt": "2026-11-25T06:00:00Z",
       "teams": [
-        "TBD",
-        "TBD"
+        "Eternal Fire",
+        "100 Thieves"
       ],
-      "bestOf": null,
-      "hltvId": null,
+      "bestOf": 1,
+      "hltvId": 2400566,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-1vWNDspyrc-M3",
       "stage": "stage-1",
       "round": "Round 3",
-      "startsAt": "2026-11-25T06:00:00Z",
+      "startsAt": "2026-11-25T07:00:00Z",
       "teams": [
-        "TBD",
-        "TBD"
+        "Wildcard",
+        "Lynn Vision"
       ],
-      "bestOf": null,
-      "hltvId": null,
+      "bestOf": 1,
+      "hltvId": 2400568,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-1vWNDspyrc-M4",
       "stage": "stage-1",
       "round": "Round 3",
-      "startsAt": "2026-11-25T06:00:00Z",
+      "startsAt": "2026-11-25T07:00:00Z",
       "teams": [
-        "TBD",
-        "TBD"
+        "PVISION",
+        "FaZe"
       ],
-      "bestOf": null,
-      "hltvId": null,
+      "bestOf": 1,
+      "hltvId": 2400567,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-bwmnugQQgC-M1",
       "stage": "stage-1",
       "round": "Round 3",
-      "startsAt": "2026-11-25T09:00:00Z",
+      "startsAt": "2026-11-25T08:00:00Z",
       "teams": [
-        "TBD",
-        "TBD"
+        "9z",
+        "Dendele"
       ],
-      "bestOf": null,
-      "hltvId": null,
+      "bestOf": 3,
+      "hltvId": 2400570,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-bwmnugQQgC-M2",
       "stage": "stage-1",
       "round": "Round 3",
-      "startsAt": "2026-11-25T09:00:00Z",
+      "startsAt": "2026-11-25T10:30:00Z",
       "teams": [
-        "TBD",
-        "TBD"
+        "GOSH",
+        "Chinggis Warriors"
       ],
-      "bestOf": null,
-      "hltvId": null,
+      "bestOf": 3,
+      "hltvId": 2400572,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
@@ -390,7 +374,7 @@
       "bestOf": 3,
       "hltvId": null,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
+      "updatedAt": "2026-11-24T17:58:42Z",
       "tentative": true,
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
@@ -406,7 +390,7 @@
       "bestOf": 3,
       "hltvId": null,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
+      "updatedAt": "2026-11-24T17:58:42Z",
       "tentative": true,
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
@@ -422,7 +406,7 @@
       "bestOf": 3,
       "hltvId": null,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
+      "updatedAt": "2026-11-24T17:58:42Z",
       "tentative": true,
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
@@ -438,7 +422,7 @@
       "bestOf": 3,
       "hltvId": null,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
+      "updatedAt": "2026-11-24T17:58:42Z",
       "tentative": true,
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
@@ -454,7 +438,7 @@
       "bestOf": 3,
       "hltvId": null,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
+      "updatedAt": "2026-11-24T17:58:42Z",
       "tentative": true,
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
@@ -470,7 +454,7 @@
       "bestOf": 3,
       "hltvId": null,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
+      "updatedAt": "2026-11-24T17:58:42Z",
       "tentative": true,
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
@@ -478,48 +462,45 @@
       "id": "stage-1-CucMSaqzMZ-M1",
       "stage": "stage-1",
       "round": "Round 5",
-      "startsAt": "2026-11-27T07:00:00Z",
+      "startsAt": "2026-11-27T06:00:00Z",
       "teams": [
         "TBD",
         "TBD"
       ],
       "bestOf": 3,
-      "hltvId": null,
+      "hltvId": 2400579,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-CucMSaqzMZ-M2",
       "stage": "stage-1",
       "round": "Round 5",
-      "startsAt": "2026-11-27T10:00:00Z",
+      "startsAt": "2026-11-27T08:30:00Z",
       "teams": [
         "TBD",
         "TBD"
       ],
       "bestOf": 3,
-      "hltvId": null,
+      "hltvId": 2400580,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
       "id": "stage-1-CucMSaqzMZ-M3",
       "stage": "stage-1",
       "round": "Round 5",
-      "startsAt": "2026-11-27T13:00:00Z",
+      "startsAt": "2026-11-27T11:00:00Z",
       "teams": [
         "TBD",
         "TBD"
       ],
       "bestOf": 3,
-      "hltvId": null,
+      "hltvId": 2400581,
       "status": "scheduled",
-      "updatedAt": "2026-11-22T00:00:00Z",
-      "tentative": true,
+      "updatedAt": "2026-11-24T17:58:42Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1"
     },
     {
@@ -1557,7 +1538,7 @@
       "bestOf": 3,
       "hltvId": null,
       "status": "scheduled",
-      "updatedAt": "2026-11-16T14:43:20Z",
+      "updatedAt": "2026-11-24T13:31:23Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Playoffs"
     },
     {
@@ -1572,7 +1553,7 @@
       "bestOf": 3,
       "hltvId": null,
       "status": "scheduled",
-      "updatedAt": "2026-11-16T14:43:20Z",
+      "updatedAt": "2026-11-24T13:31:23Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Playoffs"
     },
     {
@@ -1587,7 +1568,7 @@
       "bestOf": 3,
       "hltvId": null,
       "status": "scheduled",
-      "updatedAt": "2026-11-16T14:43:20Z",
+      "updatedAt": "2026-11-24T13:31:23Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Playoffs"
     },
     {
@@ -1602,7 +1583,7 @@
       "bestOf": 3,
       "hltvId": null,
       "status": "scheduled",
-      "updatedAt": "2026-11-16T14:43:20Z",
+      "updatedAt": "2026-11-24T13:31:23Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Playoffs"
     },
     {
@@ -1617,7 +1598,7 @@
       "bestOf": 3,
       "hltvId": null,
       "status": "scheduled",
-      "updatedAt": "2026-11-16T14:43:20Z",
+      "updatedAt": "2026-11-24T13:31:23Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Playoffs"
     },
     {
@@ -1632,7 +1613,7 @@
       "bestOf": 3,
       "hltvId": null,
       "status": "scheduled",
-      "updatedAt": "2026-11-16T14:43:20Z",
+      "updatedAt": "2026-11-24T13:31:23Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Playoffs"
     },
     {
@@ -1645,9 +1626,9 @@
         "TBD"
       ],
       "bestOf": 5,
-      "hltvId": null,
+      "hltvId": 2400796,
       "status": "scheduled",
-      "updatedAt": "2026-11-16T14:43:20Z",
+      "updatedAt": "2026-11-24T13:31:23Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Playoffs"
     },
     {
@@ -1660,9 +1641,9 @@
         "TBD"
       ],
       "bestOf": 3,
-      "hltvId": null,
+      "hltvId": 2400795,
       "status": "scheduled",
-      "updatedAt": "2026-11-16T14:43:20Z",
+      "updatedAt": "2026-11-24T13:31:23Z",
       "source": "https://liquipedia.net/counterstrike/PGL/2026/Singapore/Playoffs"
     }
   ]

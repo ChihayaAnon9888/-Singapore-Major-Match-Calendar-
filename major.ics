@@ -8,10 +8,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-qYes0iRpTj-M1@cs2-major-calendar
-DTSTAMP:20261116T143840Z
-LAST-MODIFIED:20261116T143840Z
-SEQUENCE:1794839920
-DTSTART:20261124T040000Z
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261124T040500Z
 SUMMARY:HEROIC vs Imperial
 DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 1\nFormat: BO1\nMatc
  h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
@@ -29,10 +29,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-qYes0iRpTj-M2@cs2-major-calendar
-DTSTAMP:20261116T143840Z
-LAST-MODIFIED:20261116T143840Z
-SEQUENCE:1794839920
-DTSTART:20261124T040000Z
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261124T040500Z
 SUMMARY:9z vs Lynn Vision
 DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 1\nFormat: BO1\nMatc
  h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
@@ -50,10 +50,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-qYes0iRpTj-M3@cs2-major-calendar
-DTSTAMP:20261116T143840Z
-LAST-MODIFIED:20261116T143840Z
-SEQUENCE:1794839920
-DTSTART:20261124T050000Z
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261124T050500Z
 SUMMARY:Ninjas in Pyjamas vs M80
 DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 1\nFormat: BO1\nMatc
  h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
@@ -71,10 +71,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-qYes0iRpTj-M4@cs2-major-calendar
-DTSTAMP:20261116T143840Z
-LAST-MODIFIED:20261116T143840Z
-SEQUENCE:1794839920
-DTSTART:20261124T050000Z
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261124T052500Z
 SUMMARY:100 Thieves vs Chinggis Warriors
 DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 1\nFormat: BO1\nMatc
  h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
@@ -91,32 +91,11 @@ DESCRIPTION:100 Thieves vs Chinggis Warriors
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:singapore-2026-stage-1-qYes0iRpTj-M5@cs2-major-calendar
-DTSTAMP:20261116T143840Z
-LAST-MODIFIED:20261116T143840Z
-SEQUENCE:1794839920
-DTSTART:20261124T060000Z
-SUMMARY:PVISION vs Dendele
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 1\nFormat: BO1\nMatc
- h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
- /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
- s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
- es
-URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:PVISION vs Dendele
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:singapore-2026-stage-1-qYes0iRpTj-M6@cs2-major-calendar
-DTSTAMP:20261116T143840Z
-LAST-MODIFIED:20261116T143840Z
-SEQUENCE:1794839920
-DTSTART:20261124T060000Z
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261124T061000Z
 SUMMARY:Team Liquid vs GOSH
 DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 1\nFormat: BO1\nMatc
  h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
@@ -133,10 +112,31 @@ DESCRIPTION:Team Liquid vs GOSH
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:singapore-2026-stage-1-qYes0iRpTj-M5@cs2-major-calendar
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261124T062500Z
+SUMMARY:PVISION vs Dendele
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 1\nFormat: BO1\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
+URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:PVISION vs Dendele
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:singapore-2026-stage-1-qYes0iRpTj-M7@cs2-major-calendar
-DTSTAMP:20261116T143840Z
-LAST-MODIFIED:20261116T143840Z
-SEQUENCE:1794839920
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
 DTSTART:20261124T070000Z
 SUMMARY:FaZe vs Wildcard
 DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 1\nFormat: BO1\nMatc
@@ -155,10 +155,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-qYes0iRpTj-M8@cs2-major-calendar
-DTSTAMP:20261116T143840Z
-LAST-MODIFIED:20261116T143840Z
-SEQUENCE:1794839920
-DTSTART:20261124T070000Z
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261124T072000Z
 SUMMARY:Eternal Fire vs FlyQuest
 DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 1\nFormat: BO1\nMatc
  h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
@@ -175,346 +175,346 @@ DESCRIPTION:Eternal Fire vs FlyQuest
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:singapore-2026-stage-1-LP7mmVSfz0-M1@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261124T090000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 2 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 2\nFormat: BO1\nProv
- isional start time from HLTV. The matchup and time may change.\nMatch data
-  from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net/count
- erstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommons.org/
- licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
-URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 2 (tentative)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:singapore-2026-stage-1-LP7mmVSfz0-M2@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261124T090000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 2 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 2\nFormat: BO1\nProv
- isional start time from HLTV. The matchup and time may change.\nMatch data
-  from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net/count
- erstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommons.org/
- licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
-URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 2 (tentative)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:singapore-2026-stage-1-LP7mmVSfz0-M3@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261124T100000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 2 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 2\nFormat: BO1\nProv
- isional start time from HLTV. The matchup and time may change.\nMatch data
-  from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net/count
- erstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommons.org/
- licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
-URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 2 (tentative)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:singapore-2026-stage-1-LP7mmVSfz0-M4@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261124T100000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 2 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 2\nFormat: BO1\nProv
- isional start time from HLTV. The matchup and time may change.\nMatch data
-  from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net/count
- erstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommons.org/
- licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
-URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 2 (tentative)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:singapore-2026-stage-1-JRTmcHTDxV-M1@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261124T110000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 2 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 2\nFormat: BO1\nProv
- isional start time from HLTV. The matchup and time may change.\nMatch data
-  from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net/count
- erstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommons.org/
- licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261124T084500Z
+SUMMARY:HEROIC vs Chinggis Warriors
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 2\nFormat: BO1\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
 URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 2 (tentative)
+DESCRIPTION:HEROIC vs Chinggis Warriors
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:singapore-2026-stage-1-LP7mmVSfz0-M1@cs2-major-calendar
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261124T084500Z
+SUMMARY:Ninjas in Pyjamas vs Lynn Vision
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 2\nFormat: BO1\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
+URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ninjas in Pyjamas vs Lynn Vision
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-JRTmcHTDxV-M2@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261124T110000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 2 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 2\nFormat: BO1\nProv
- isional start time from HLTV. The matchup and time may change.\nMatch data
-  from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net/count
- erstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommons.org/
- licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261124T094000Z
+SUMMARY:9z vs M80
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 2\nFormat: BO1\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
 URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 2 (tentative)
+DESCRIPTION:9z vs M80
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:singapore-2026-stage-1-LP7mmVSfz0-M2@cs2-major-calendar
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261124T095000Z
+SUMMARY:100 Thieves vs Imperial
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 2\nFormat: BO1\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
+URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:100 Thieves vs Imperial
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-JRTmcHTDxV-M3@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261124T120000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 2 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 2\nFormat: BO1\nProv
- isional start time from HLTV. The matchup and time may change.\nMatch data
-  from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net/count
- erstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommons.org/
- licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261124T104500Z
+SUMMARY:Eternal Fire vs Dendele
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 2\nFormat: BO1\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
 URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 2 (tentative)
+DESCRIPTION:Eternal Fire vs Dendele
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:singapore-2026-stage-1-LP7mmVSfz0-M3@cs2-major-calendar
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261124T110000Z
+SUMMARY:PVISION vs FlyQuest
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 2\nFormat: BO1\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
+URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:PVISION vs FlyQuest
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:singapore-2026-stage-1-LP7mmVSfz0-M4@cs2-major-calendar
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261124T115500Z
+SUMMARY:Team Liquid vs Wildcard
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 2\nFormat: BO1\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
+URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Team Liquid vs Wildcard
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-JRTmcHTDxV-M4@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261124T120000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 2 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 2\nFormat: BO1\nProv
- isional start time from HLTV. The matchup and time may change.\nMatch data
-  from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net/count
- erstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommons.org/
- licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261124T121000Z
+SUMMARY:FaZe vs GOSH
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 2\nFormat: BO1\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
 URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 2 (tentative)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:singapore-2026-stage-1-8G2UXTP8Mk-M1@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261125T040000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 3 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 3\nProvisional start
-  time from HLTV. The matchup and time may change.\nMatch data from Liquipe
- dia contributors (CC BY-SA 3.0): https://liquipedia.net/counterstrike/PGL/
- 2026/Singapore/Stage_1\nLicense: https://creativecommons.org/licenses/by-s
- a/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
-URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 3 (tentative)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:singapore-2026-stage-1-8G2UXTP8Mk-M2@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261125T040000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 3 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 3\nProvisional start
-  time from HLTV. The matchup and time may change.\nMatch data from Liquipe
- dia contributors (CC BY-SA 3.0): https://liquipedia.net/counterstrike/PGL/
- 2026/Singapore/Stage_1\nLicense: https://creativecommons.org/licenses/by-s
- a/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
-URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 3 (tentative)
+DESCRIPTION:FaZe vs GOSH
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-1vWNDspyrc-M1@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261125T050000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 3 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 3\nProvisional start
-  time from HLTV. The matchup and time may change.\nMatch data from Liquipe
- dia contributors (CC BY-SA 3.0): https://liquipedia.net/counterstrike/PGL/
- 2026/Singapore/Stage_1\nLicense: https://creativecommons.org/licenses/by-s
- a/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261125T060000Z
+SUMMARY:HEROIC vs M80
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 3\nFormat: BO1\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
 URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 3 (tentative)
+DESCRIPTION:HEROIC vs M80
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-1vWNDspyrc-M2@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261125T050000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 3 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 3\nProvisional start
-  time from HLTV. The matchup and time may change.\nMatch data from Liquipe
- dia contributors (CC BY-SA 3.0): https://liquipedia.net/counterstrike/PGL/
- 2026/Singapore/Stage_1\nLicense: https://creativecommons.org/licenses/by-s
- a/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261125T060000Z
+SUMMARY:Eternal Fire vs 100 Thieves
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 3\nFormat: BO1\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
 URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 3 (tentative)
+DESCRIPTION:Eternal Fire vs 100 Thieves
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-1vWNDspyrc-M3@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261125T060000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 3 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 3\nProvisional start
-  time from HLTV. The matchup and time may change.\nMatch data from Liquipe
- dia contributors (CC BY-SA 3.0): https://liquipedia.net/counterstrike/PGL/
- 2026/Singapore/Stage_1\nLicense: https://creativecommons.org/licenses/by-s
- a/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261125T070000Z
+SUMMARY:Wildcard vs Lynn Vision
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 3\nFormat: BO1\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
 URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 3 (tentative)
+DESCRIPTION:Wildcard vs Lynn Vision
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-1vWNDspyrc-M4@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261125T060000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 3 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 3\nProvisional start
-  time from HLTV. The matchup and time may change.\nMatch data from Liquipe
- dia contributors (CC BY-SA 3.0): https://liquipedia.net/counterstrike/PGL/
- 2026/Singapore/Stage_1\nLicense: https://creativecommons.org/licenses/by-s
- a/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261125T070000Z
+SUMMARY:PVISION vs FaZe
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 3\nFormat: BO1\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
 URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 3 (tentative)
+DESCRIPTION:PVISION vs FaZe
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:singapore-2026-stage-1-8G2UXTP8Mk-M1@cs2-major-calendar
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261125T080000Z
+SUMMARY:Imperial vs FlyQuest
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 3\nFormat: BO3\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
+URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Imperial vs FlyQuest
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-bwmnugQQgC-M1@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261125T090000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 3 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 3\nProvisional start
-  time from HLTV. The matchup and time may change.\nMatch data from Liquipe
- dia contributors (CC BY-SA 3.0): https://liquipedia.net/counterstrike/PGL/
- 2026/Singapore/Stage_1\nLicense: https://creativecommons.org/licenses/by-s
- a/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261125T080000Z
+SUMMARY:9z vs Dendele
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 3\nFormat: BO3\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
 URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 3 (tentative)
+DESCRIPTION:9z vs Dendele
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:singapore-2026-stage-1-8G2UXTP8Mk-M2@cs2-major-calendar
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261125T103000Z
+SUMMARY:Ninjas in Pyjamas vs Team Liquid
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 3\nFormat: BO3\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
+URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ninjas in Pyjamas vs Team Liquid
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-bwmnugQQgC-M2@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261125T090000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 3 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 3\nProvisional start
-  time from HLTV. The matchup and time may change.\nMatch data from Liquipe
- dia contributors (CC BY-SA 3.0): https://liquipedia.net/counterstrike/PGL/
- 2026/Singapore/Stage_1\nLicense: https://creativecommons.org/licenses/by-s
- a/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261125T103000Z
+SUMMARY:GOSH vs Chinggis Warriors
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 3\nFormat: BO3\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
 URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 3 (tentative)
+DESCRIPTION:GOSH vs Chinggis Warriors
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-TbId6m7sSx-M1@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
 DTSTART:20261126T070000Z
 SUMMARY:TBD vs TBD · Stage 1 Round 4 (tentative)
 DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 4\nFormat: BO3\nProv
@@ -533,9 +533,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-TbId6m7sSx-M2@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
 DTSTART:20261126T070000Z
 SUMMARY:TBD vs TBD · Stage 1 Round 4 (tentative)
 DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 4\nFormat: BO3\nProv
@@ -554,9 +554,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-PqjSMr1RRE-M1@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
 DTSTART:20261126T100000Z
 SUMMARY:TBD vs TBD · Stage 1 Round 4 (tentative)
 DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 4\nFormat: BO3\nProv
@@ -575,9 +575,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-TbId6m7sSx-M3@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
 DTSTART:20261126T100000Z
 SUMMARY:TBD vs TBD · Stage 1 Round 4 (tentative)
 DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 4\nFormat: BO3\nProv
@@ -596,9 +596,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-PqjSMr1RRE-M2@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
 DTSTART:20261126T130000Z
 SUMMARY:TBD vs TBD · Stage 1 Round 4 (tentative)
 DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 4\nFormat: BO3\nProv
@@ -617,9 +617,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-PqjSMr1RRE-M3@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
 DTSTART:20261126T130000Z
 SUMMARY:TBD vs TBD · Stage 1 Round 4 (tentative)
 DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 4\nFormat: BO3\nProv
@@ -638,65 +638,65 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-CucMSaqzMZ-M1@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261127T070000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 5 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 5\nFormat: BO3\nProv
- isional start time from HLTV. The matchup and time may change.\nMatch data
-  from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net/count
- erstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommons.org/
- licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261127T060000Z
+SUMMARY:TBD vs TBD · Stage 1 Round 5
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 5\nFormat: BO3\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
 URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 5 (tentative)
+DESCRIPTION:TBD vs TBD · Stage 1 Round 5
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-CucMSaqzMZ-M2@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261127T100000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 5 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 5\nFormat: BO3\nProv
- isional start time from HLTV. The matchup and time may change.\nMatch data
-  from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net/count
- erstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommons.org/
- licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261127T083000Z
+SUMMARY:TBD vs TBD · Stage 1 Round 5
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 5\nFormat: BO3\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
 URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 5 (tentative)
+DESCRIPTION:TBD vs TBD · Stage 1 Round 5
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-stage-1-CucMSaqzMZ-M3@cs2-major-calendar
-DTSTAMP:20261122T000000Z
-LAST-MODIFIED:20261122T000000Z
-SEQUENCE:1795305600
-DTSTART:20261127T130000Z
-SUMMARY:TBD vs TBD · Stage 1 Round 5 (tentative)
-DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 5\nFormat: BO3\nProv
- isional start time from HLTV. The matchup and time may change.\nMatch data
-  from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net/count
- erstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommons.org/
- licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/matches
+DTSTAMP:20261124T175842Z
+LAST-MODIFIED:20261124T175842Z
+SEQUENCE:1795543122
+DTSTART:20261127T110000Z
+SUMMARY:TBD vs TBD · Stage 1 Round 5
+DESCRIPTION:PGL Major Singapore 2026\nStage 1 · Round 5\nFormat: BO3\nMatc
+ h data from Liquipedia contributors (CC BY-SA 3.0): https://liquipedia.net
+ /counterstrike/PGL/2026/Singapore/Stage_1\nLicense: https://creativecommon
+ s.org/licenses/by-sa/3.0/\nHLTV coverage: https://www.hltv.org/major/match
+ es
 URL:https://liquipedia.net/counterstrike/PGL/2026/Singapore/Stage_1
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:TBD vs TBD · Stage 1 Round 5 (tentative)
+DESCRIPTION:TBD vs TBD · Stage 1 Round 5
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -1394,9 +1394,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-playoffs-2rF0kBRwaC-RxMTP@cs2-major-calendar
-DTSTAMP:20261116T144320Z
-LAST-MODIFIED:20261116T144320Z
-SEQUENCE:1794840200
+DTSTAMP:20261124T133123Z
+LAST-MODIFIED:20261124T133123Z
+SEQUENCE:1795527083
 DTSTART:20261213T063000Z
 SUMMARY:TBD vs TBD · Playoffs Third-place match
 DESCRIPTION:PGL Major Singapore 2026\nPlayoffs · Third-place match\nFormat
@@ -1415,9 +1415,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-2026-playoffs-2rF0kBRwaC-R3M1@cs2-major-calendar
-DTSTAMP:20261116T144320Z
-LAST-MODIFIED:20261116T144320Z
-SEQUENCE:1794840200
+DTSTAMP:20261124T133123Z
+LAST-MODIFIED:20261124T133123Z
+SEQUENCE:1795527083
 DTSTART:20261213T100000Z
 SUMMARY:TBD vs TBD · Playoffs Grand final
 DESCRIPTION:PGL Major Singapore 2026\nPlayoffs · Grand final\nFormat: BO5\
